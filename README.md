@@ -77,7 +77,7 @@ Helps optimize resource allocation.
 
 
 ### Preview
-[![Watch the video]("")
+[![Watch the video]("https://github.com/AritriPodde2210/Hospital-Emergency-Room-Data-Analysis/blob/main/Screen%20Recording%202025-02-11%20225059.mp4")
 
 
 
