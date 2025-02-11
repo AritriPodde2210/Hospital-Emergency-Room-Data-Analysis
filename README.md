@@ -77,7 +77,7 @@ Helps optimize resource allocation.
 
 
 ### Preview
-[![Watch the video]("C:\Users\guddi\Videos\Screen Recordings\Screen Recording 2025-02-11 225059.mp4")
+[![Watch the video]("")
 
 
 
